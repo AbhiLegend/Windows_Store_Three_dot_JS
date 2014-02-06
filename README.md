@@ -22,3 +22,9 @@ Things done
 7)Get in touch with me at abhishek.nandy81@gmail.com
 
 8)Twitter @abhisheknandy81
+
+Added Workaround1 solution that is also a Windows 8 app using HTML 5 and JavaScript
+
+and i have tried bringing in Paper.JS and Physics.JS together.
+
+I will be updating more on it..
